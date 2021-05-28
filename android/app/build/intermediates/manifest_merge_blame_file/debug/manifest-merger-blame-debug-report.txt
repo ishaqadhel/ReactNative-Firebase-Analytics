@@ -1,0 +1,207 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.digitalwalletapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+14-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-68
+15-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-65
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+16-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
+17
+18    <uses-feature
+18-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+19        android:name="android.hardware.camera"
+19-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+20        android:required="false" />
+20-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+21    <uses-feature
+21-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+22        android:name="android.hardware.camera.autofocus"
+22-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+23        android:required="false" />
+23-->[:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+24
+25    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+25-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+25-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+26
+27    <application
+27-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:6:5-25:19
+28        android:name="com.digitalwalletapp.MainApplication"
+28-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:7:7-38
+29        android:allowBackup="false"
+29-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:11:7-34
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:9:7-41
+33        android:label="@string/app_name"
+33-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:8:7-39
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:10:7-52
+35        android:testOnly="true"
+36        android:theme="@style/AppTheme"
+36-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:12:7-38
+37        android:usesCleartextTraffic="true" >
+37-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:7:18-53
+38        <activity
+38-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:13:7-23:18
+39            android:name="com.digitalwalletapp.MainActivity"
+39-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:14:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+40-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:16:9-86
+41            android:label="@string/app_name"
+41-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:15:9-41
+42            android:launchMode="singleTask"
+42-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:17:9-40
+43            android:windowSoftInputMode="adjustResize" >
+43-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:18:9-51
+44            <intent-filter>
+44-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:19:9-22:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:20:13-65
+45-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:20:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:21:13-73
+47-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:21:23-70
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+50-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:24:7-84
+50-->/home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:24:17-81
+51
+52        <meta-data
+52-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:36
+53            android:name="firebase_analytics_collection_enabled"
+53-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-65
+54            android:value="true" />
+54-->[:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-33
+55
+56        <activity
+56-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+57            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+57-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+58            android:excludeFromRecents="true"
+58-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+61        <!--
+62            Service handling Google Sign-In user revocation. For apps that do not integrate with
+63            Google Sign-In, this service will never be started.
+64        -->
+65        <service
+65-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+66            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+66-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+67            android:exported="true"
+67-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+68            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+68-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+69            android:visibleToInstantApps="true" />
+69-->[com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+75
+76        <service
+76-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:28:13-84
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+79            android:exported="false" >
+79-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:29:13-37
+80            <meta-data
+80-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+81                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+81-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+84                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+84-->[com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+86        </service>
+87
+88        <provider
+88-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+89            android:name="com.google.firebase.provider.FirebaseInitProvider"
+89-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+90            android:authorities="com.digitalwalletapp.firebaseinitprovider"
+90-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+91            android:directBootAware="true"
+91-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+92            android:exported="false"
+92-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+93            android:initOrder="100" />
+93-->[com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+94
+95        <receiver
+95-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+96            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+96-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+97            android:enabled="true"
+97-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+98            android:exported="false" >
+98-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+99        </receiver>
+100
+101        <service
+101-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+102            android:name="com.google.android.gms.measurement.AppMeasurementService"
+102-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+103            android:enabled="true"
+103-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+104            android:exported="false" />
+104-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+105        <service
+105-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+106            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+106-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+107            android:enabled="true"
+107-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+108            android:exported="false"
+108-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+109            android:permission="android.permission.BIND_JOB_SERVICE" />
+109-->[com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+110
+111        <meta-data
+111-->[com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+112            android:name="com.google.android.gms.version"
+112-->[com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+113            android:value="@integer/google_play_services_version" />
+113-->[com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+114    </application>
+115
+116</manifest>

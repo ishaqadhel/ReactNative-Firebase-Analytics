@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933616538541",
+    "project_id": "reactnativewallet-ee5e2",
+    "storage_bucket": "reactnativewallet-ee5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933616538541:android:7b8a5df8679c9aac368724",
+        "android_client_info": {
+          "package_name": "com.demo.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933616538541-00kbt5a9ano1pmm5vvjjukciovvcatn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ41piCkTEVqD58SCplHUUWO1xRXj4hME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933616538541-00kbt5a9ano1pmm5vvjjukciovvcatn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

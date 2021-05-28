@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/namdoshaq/git/template/react-native/wallet/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/namdoshaq/.gradle/caches/transforms-2/files-2.1/719ad831f575f0e14894c8ffc1e6e86e/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

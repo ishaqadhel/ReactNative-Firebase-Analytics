@@ -1,0 +1,611 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/20eec3c870bd0887cd13ec14588f7099/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b656457233bca6f4b310ebc0e8dc65d6/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-firebase_app] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/809ae554b4db9c54e575b393b8a15a4a/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_masked-view] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.63.4] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ccf207344b393787029868dc77cad86f/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/737c7457d02a7d423d34d4a7836a3828/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9b9d51a1a02087486ff8bc0e7a2f128/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/990eb2c7421fd74e9c3b1134d9d67bc0/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/07a054191e665536c4e68b8fc79668ee/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3850a254c9e76f251c7942acad5628fe/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0e24692549a70440fc18ffb52c6dd576/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bc2ac532e8ec7202fd6631cbb67cbb1e/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/cfbe820063e0f73c1b47b053d26f62c5/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/252a7774f5a3ad163861cf320aebee03/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/39b7d08f076059b83ae755ed27dbce66/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9f97ab8dd650b0b2ed37cdcfbd14b88/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/26420de3afc75722febb9bfb2e7de5c5/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d9e728a4b0abadd991fad5d1823cbeef/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3d9118833b1045bc1e5f73d446f9f424/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d93e5a04bd38a758b65492d4be06a6a7/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c342e78616b0b4ebd4daa5d440a258e/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/719ad831f575f0e14894c8ffc1e6e86e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/66e4faa9b275e35fefd4fd3cec4ac2a5/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0b8111e2d627a6a811f869d846a25fbc/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/deb84c5267a6ee1c0831f81da242e66e/play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dddd2f4453e5835bfce9b124f82d89e5/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7b53ee5e4bd6226ea2f8690cbf1500a1/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5974f4d8671afa5a3acd90de579b83fc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dd3957690b4af60f0bd32db89eff717f/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e50f4b7386ed58673a9bff2603118536/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bf05956b0c4fc6540f12d720312c790b/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c6ac13f24d42b2e63527d34a44f96edb/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/aff81eb10b358dec3b46bbfd2b24f8ed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/908ce53bba08325816a7f4bfe899a80a/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d37516f573a45d96c8c69fd018a2f695/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4bbae4d7cd25fb47aaa6fe82cc76bbc0/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/54ca64a0759bf974a35827f7df5beeae/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f42c8de8ebe42db4cc6a0b33c78cd05c/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0897a088e8f73eb7de7fa5ba4af712d8/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5357a7353369ead51b7567106488f2ec/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f52ddefb3c505bb520b1cb6e6e0957b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3ea147b32ab265717d27a185ce4474ca/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2e3c3153f07ec72337c876879dcd760b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/6da42d79769c760cac4542c20c113076/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/30665081c1549e475004cd1fd2df8795/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/917b8ca0ec32fa9f290b45ea5a55773d/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.facebook.react:react-native:0.63.4] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ccf207344b393787029868dc77cad86f/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ccf207344b393787029868dc77cad86f/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c342e78616b0b4ebd4daa5d440a258e/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c342e78616b0b4ebd4daa5d440a258e/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/deb84c5267a6ee1c0831f81da242e66e/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/deb84c5267a6ee1c0831f81da242e66e/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5974f4d8671afa5a3acd90de579b83fc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5974f4d8671afa5a3acd90de579b83fc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dd3957690b4af60f0bd32db89eff717f/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dd3957690b4af60f0bd32db89eff717f/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bf05956b0c4fc6540f12d720312c790b/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bf05956b0c4fc6540f12d720312c790b/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/54ca64a0759bf974a35827f7df5beeae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/54ca64a0759bf974a35827f7df5beeae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.digitalwalletapp.MainActivity
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/20eec3c870bd0887cd13ec14588f7099/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/20eec3c870bd0887cd13ec14588f7099/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b656457233bca6f4b310ebc0e8dc65d6/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b656457233bca6f4b310ebc0e8dc65d6/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/809ae554b4db9c54e575b393b8a15a4a/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/809ae554b4db9c54e575b393b8a15a4a/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_masked-view] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ccf207344b393787029868dc77cad86f/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ccf207344b393787029868dc77cad86f/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/737c7457d02a7d423d34d4a7836a3828/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/737c7457d02a7d423d34d4a7836a3828/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9b9d51a1a02087486ff8bc0e7a2f128/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9b9d51a1a02087486ff8bc0e7a2f128/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/990eb2c7421fd74e9c3b1134d9d67bc0/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/990eb2c7421fd74e9c3b1134d9d67bc0/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/07a054191e665536c4e68b8fc79668ee/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/07a054191e665536c4e68b8fc79668ee/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3850a254c9e76f251c7942acad5628fe/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3850a254c9e76f251c7942acad5628fe/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0e24692549a70440fc18ffb52c6dd576/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0e24692549a70440fc18ffb52c6dd576/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bc2ac532e8ec7202fd6631cbb67cbb1e/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bc2ac532e8ec7202fd6631cbb67cbb1e/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/cfbe820063e0f73c1b47b053d26f62c5/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/cfbe820063e0f73c1b47b053d26f62c5/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/252a7774f5a3ad163861cf320aebee03/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/252a7774f5a3ad163861cf320aebee03/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/39b7d08f076059b83ae755ed27dbce66/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/39b7d08f076059b83ae755ed27dbce66/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9f97ab8dd650b0b2ed37cdcfbd14b88/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f9f97ab8dd650b0b2ed37cdcfbd14b88/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/26420de3afc75722febb9bfb2e7de5c5/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/26420de3afc75722febb9bfb2e7de5c5/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d9e728a4b0abadd991fad5d1823cbeef/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d9e728a4b0abadd991fad5d1823cbeef/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3d9118833b1045bc1e5f73d446f9f424/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3d9118833b1045bc1e5f73d446f9f424/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d93e5a04bd38a758b65492d4be06a6a7/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d93e5a04bd38a758b65492d4be06a6a7/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c342e78616b0b4ebd4daa5d440a258e/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c342e78616b0b4ebd4daa5d440a258e/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/719ad831f575f0e14894c8ffc1e6e86e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/719ad831f575f0e14894c8ffc1e6e86e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/66e4faa9b275e35fefd4fd3cec4ac2a5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/66e4faa9b275e35fefd4fd3cec4ac2a5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0b8111e2d627a6a811f869d846a25fbc/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0b8111e2d627a6a811f869d846a25fbc/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/deb84c5267a6ee1c0831f81da242e66e/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/deb84c5267a6ee1c0831f81da242e66e/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dddd2f4453e5835bfce9b124f82d89e5/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dddd2f4453e5835bfce9b124f82d89e5/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7b53ee5e4bd6226ea2f8690cbf1500a1/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7b53ee5e4bd6226ea2f8690cbf1500a1/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5974f4d8671afa5a3acd90de579b83fc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5974f4d8671afa5a3acd90de579b83fc/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dd3957690b4af60f0bd32db89eff717f/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/dd3957690b4af60f0bd32db89eff717f/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e50f4b7386ed58673a9bff2603118536/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e50f4b7386ed58673a9bff2603118536/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bf05956b0c4fc6540f12d720312c790b/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/bf05956b0c4fc6540f12d720312c790b/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c6ac13f24d42b2e63527d34a44f96edb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c6ac13f24d42b2e63527d34a44f96edb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/aff81eb10b358dec3b46bbfd2b24f8ed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/aff81eb10b358dec3b46bbfd2b24f8ed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/908ce53bba08325816a7f4bfe899a80a/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/908ce53bba08325816a7f4bfe899a80a/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d37516f573a45d96c8c69fd018a2f695/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/d37516f573a45d96c8c69fd018a2f695/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4bbae4d7cd25fb47aaa6fe82cc76bbc0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/4bbae4d7cd25fb47aaa6fe82cc76bbc0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/62c258bcd802dfb0367694e6fe8a9e5e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/54ca64a0759bf974a35827f7df5beeae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/54ca64a0759bf974a35827f7df5beeae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f42c8de8ebe42db4cc6a0b33c78cd05c/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f42c8de8ebe42db4cc6a0b33c78cd05c/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0897a088e8f73eb7de7fa5ba4af712d8/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0897a088e8f73eb7de7fa5ba4af712d8/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5357a7353369ead51b7567106488f2ec/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/5357a7353369ead51b7567106488f2ec/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f52ddefb3c505bb520b1cb6e6e0957b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f52ddefb3c505bb520b1cb6e6e0957b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3ea147b32ab265717d27a185ce4474ca/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/3ea147b32ab265717d27a185ce4474ca/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2e3c3153f07ec72337c876879dcd760b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2e3c3153f07ec72337c876879dcd760b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/6da42d79769c760cac4542c20c113076/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/6da42d79769c760cac4542c20c113076/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/30665081c1549e475004cd1fd2df8795/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/30665081c1549e475004cd1fd2df8795/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/917b8ca0ec32fa9f290b45ea5a55773d/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/917b8ca0ec32fa9f290b45ea5a55773d/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/namdoshaq/git/template/react-native/wallet/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-65
+meta-data#firebase_analytics_collection_enabled
+ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:36
+	android:value
+		ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-33
+	android:name
+		ADDED from [:react-native-firebase_analytics] /home/namdoshaq/git/template/react-native/wallet/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-65
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/namdoshaq/git/template/react-native/wallet/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/78af1d8118b7c76fd539d8ea408fdc83/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/7c1bffabf692d35f4b050f969bcc7696/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/2f14a12359f7514078f0fc67ff78a522/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/namdoshaq/.gradle/caches/transforms-2/files-2.1/0ae17e8c23adc4b8bbc5ff1cf628965e/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58

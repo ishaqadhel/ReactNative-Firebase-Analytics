@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">933616538541-00kbt5a9ano1pmm5vvjjukciovvcatn2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">933616538541</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJ41piCkTEVqD58SCplHUUWO1xRXj4hME</string>
+    <string name="google_app_id" translatable="false">1:933616538541:android:00008490d5f436b8368724</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJ41piCkTEVqD58SCplHUUWO1xRXj4hME</string>
+    <string name="google_storage_bucket" translatable="false">reactnativewallet-ee5e2.appspot.com</string>
+    <string name="project_id" translatable="false">reactnativewallet-ee5e2</string>
+</resources>

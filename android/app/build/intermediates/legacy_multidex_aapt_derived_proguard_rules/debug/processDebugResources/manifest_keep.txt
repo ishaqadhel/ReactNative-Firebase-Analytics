@@ -1,0 +1,4 @@
+# Referenced at /home/namdoshaq/git/template/react-native/wallet/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/namdoshaq/git/template/react-native/wallet/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:27
+-keep class com.digitalwalletapp.MainApplication { <init>(); }
